@@ -1,11 +1,24 @@
-# GitHub Achievements Practice 🏆
+# 🚀 My GitHub Profile
 
-This repository is created to practice Git workflows and unlock GitHub Achievements & Badges!
+Welcome to my GitHub profile! 👋
 
-## Badges Target:
-- 👥 **Pair Extraordinaire**: Co-authored commit
-- 🦈 **Pull Shark**: Merged Pull Request
-- 🦹 **YOLO**: Merged PR without code review
-- ⚡ **Quickdraw**: Closed issue/PR within 5 minutes
+I'm learning, building, and exploring new things every day. 💻✨
 
-- Added badges practice feature update!
+## 🚀 YOLO
+
+Trying something new on GitHub! 🚀
+
+## 📚 What I'm Learning
+
+- 💻 Programming
+- 🌐 Web Development
+- 🐙 Git & GitHub
+- 🚀 Building new projects
+
+## 🎯 Goals
+
+Keep learning, keep building, and keep improving! 💪
+
+---
+
+⭐ Thanks for visiting my profile!
